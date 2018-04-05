@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Chrome instance which crawls a site looking for non-HTTPS response objects",
   "main": "index.js",
-  "repository": "https://github.com/simons/mixed-content-crawler",
-  "author": "Simon Scarfe",
+  "repository": "https://github.com/harshkotak/mixed-content-crawler",
+  "author": "Harsh Kotak",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^4.19.1",
